@@ -6,3 +6,4 @@
 - [Two Sum](src/Arrays_Hashing/Two_Sum.java)
 - [Group Anagrams](src/Arrays_Hashing/Group_Anagrams.java)
 - [Top K Frequent Elements](src/Arrays_Hashing/Top_K_Frequent_Elements.java)
+- [Encode and Decode Strings](src/Arrays_Hashing/Encode_And_Decode_Strings.java)
